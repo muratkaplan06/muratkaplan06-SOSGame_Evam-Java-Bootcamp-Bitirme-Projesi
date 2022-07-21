@@ -19,9 +19,11 @@ Whoever creates the "SOS" Word earns a point
 
 The player with the most points at the end of the game wins.
 
-![start](https://user-images.githubusercontent.com/62430581/180194570-be80187f-dabf-4ea9-a722-5408ee76a940.png)   ![winner](https://user-images.githubusercontent.com/62430581/180196087-8bc0539a-a74f-418e-aae8-d9e1d7edb2df.png)
+![start](https://user-images.githubusercontent.com/62430581/180194570-be80187f-dabf-4ea9-a722-5408ee76a940.png)   ![game1](https://user-images.githubusercontent.com/62430581/180195618-dabc6222-92c4-41f0-9982-bf538a65830b.png)
 
 the game is played in turns, the one who creates the word SOS gets the right to play once again
  
- ![game1](https://user-images.githubusercontent.com/62430581/180195618-dabc6222-92c4-41f0-9982-bf538a65830b.png)
+ 
+ 
+ ![winner](https://user-images.githubusercontent.com/62430581/180196087-8bc0539a-a74f-418e-aae8-d9e1d7edb2df.png)
 
